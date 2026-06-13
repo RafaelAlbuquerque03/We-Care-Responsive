@@ -1,6 +1,6 @@
 <h1>:dog: We Care Responsive Edition</h1>
 <br>
-<h2>:clipboard: Projeto Feito nas aulas de CSS do <a href="https://www.devclub.com.br">DevClub com responsividade</a></h2>
+<h2>:clipboard: Projeto Feito nas aulas de CSS do <a href="https://www.devclub.com.br">DevClub</a> com responsividade</h2>
 <br>
 <h2>:computer: Tecnologias Utilizadas: </h2>
 <div><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"> 
